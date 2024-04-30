@@ -128,11 +128,6 @@ $$
 
 <center>
 
-<img src="attachment/ori_roi.png" width=30%>
-<img src="attachment/after_close.png" width=30%>
-<img src="attachment/after_open.png" width=30%>
-
-从左到右依次为：仿射变换后的原始图像（添加空白后的）、闭运算后、开运算后
 
 
 </center>
@@ -163,16 +158,4 @@ $$
 
    当采集到150帧数据后开始拟合速度函数。
 
-3. 预测位置
 
-预测效果如下图：
-
-![Predict](attachment/FittedSpeed.png)
-
-![Predict](attachment/TargetPos.png)
-
-可以看见曲线基本重合，准确度还是比较高的
-
-### 方案2：拟合位置函数
-
-TBD...
