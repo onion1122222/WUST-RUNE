@@ -1,0 +1,2 @@
+wust_dafu
+-DCATKIN_DEVEL_PREFIX=/home/zhang/dafu_final/devel -DCMAKE_INSTALL_PREFIX=/home/zhang/dafu_final/install -G Unix Makefiles
